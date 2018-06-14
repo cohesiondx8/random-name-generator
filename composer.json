@@ -1,5 +1,5 @@
 {
-    "name": "cohesiondx8/random-name-generator",
+    "name": "cohesiondx8/rand-name-gen",
     "description": "Generate random names.",
     "license": "MIT",
     "require": {
