@@ -1,0 +1,13 @@
+{
+    "name": "cohesiondx8/random-name-generator",
+    "description": "Generate random names.",
+    "license": "MIT",
+    "require": {
+        "php": "~7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CohRNG\\": "src/"
+        }
+    }
+}
