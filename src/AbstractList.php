@@ -6,6 +6,9 @@ abstract class AbstractList
 {
     abstract protected function getList();
 
+    /**
+     * @return string
+     */
     public function getRandomWord()
     {
         $list = $this->getList();

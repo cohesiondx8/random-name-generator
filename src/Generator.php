@@ -10,6 +10,12 @@ class Generator
     protected $noun;
     protected $delimiter;
 
+    /**
+     * @param array of $settings with:
+     * - `adjectives` with `opinion`, `size`, `color`
+     * - `delimiter` as an adjective separator
+     * - `noun` only animals for now
+     */
     public function __construct(array $settings = [])
     {
         $adjectives = $settings['adjectives'] ?? [];
@@ -30,6 +36,19 @@ class Generator
         $this->delimiter = $settings['delimiter'] ?? static::DEFAULT_DELIMITER;
     }
 
+    /**
+     * @param AbstractList $List
+     * @return $this
+     */
+    public function addAdjectiveType(AbstractList $list)
+    {
+        $this->adjectivesTypes[] = $list;
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
     public function generate()
     {
         $rng = '';
