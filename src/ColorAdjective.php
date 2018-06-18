@@ -9,7 +9,7 @@ class ColorAdjective extends AbstractList
         return [
             'Absinthe', 'Alabaster', 'Albino', 'Almond', 'Amaranth', 'Amber', 'Amethyst', 'Apricot', 'Aqua', 'Aquamarine', 'Ash', 'Aubergine', 'Auburn', 'Avocado', 'Azure',
             'Banana', 'Begonia', 'Beige', 'Birch', 'Bisque', 'Black', 'Blond', 'Blonde', 'Blue', 'Blush', 'Bone', 'Bordeaux', 'Brass', 'Brick', 'Brindle', 'Bronze', 'Brown', 'Buff', 'Burgundy',
-            'Camel', 'Cameo', 'Canary', 'Caramel', 'Cardinal', 'Carmine', 'Carnation', 'Carnelian', 'Celadon', 'Cerise', 'Cerulean', 'Chalk', 'Champagne', 'Charcoal', 'Chartreuse', 'Cherry', 'Chestnut', 'Chocolate', 'Chrome', 'Cinnamon', 'Citrine', 'Claret', 'Cocoa', 'Coffee', 'Color', 'Complementary', 'Copper', 'Coral', 'Cordovan', 'Cornflower', 'Cranberry', 'Cream', 'Crimson', 'Crystalline', 'Cyan',
+            'Camel', 'Cameo', 'Canary', 'Caramel', 'Cardinal', 'Carmine', 'Carnation', 'Carnelian', 'Celadon', 'Cerise', 'Cerulean', 'Chalk', 'Champagne', 'Charcoal', 'Chartreuse', 'Cherry', 'Chestnut', 'Chocolate', 'Chrome', 'Cinnamon', 'Citrine', 'Claret', 'Cocoa', 'Coffee', 'Complementary', 'Copper', 'Coral', 'Cordovan', 'Cornflower', 'Cranberry', 'Cream', 'Crimson', 'Crystalline', 'Cyan',
             'Dark', 'Denim', 'Drab', 'Dull', 'Dun', 'Dusty',
             'Ebony', 'Ecru', 'Eggplant', 'Eggshell', 'Emerald',
             'Fawn', 'Flax', 'Flesh', 'Frostiness', 'Fuchsia',
