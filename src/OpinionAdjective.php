@@ -27,11 +27,11 @@ class OpinionAdjective extends AbstractList
             'Radiant', 'Rational', 'Ready', 'Receptive', 'Refreshed', 'Rejuvenated', 'Relaxed', 'Reliable', 'Relieved', 'Remarkable', 'Renewed', 'Reserved', 'Resilient', 'Resourceful', 'Rich', 'Romantic',
             'Sacred', 'Safe', 'Satisfied', 'Secured', 'Sensational', 'Sensible', 'Sensitive', 'Serene', 'Shining', 'Shy', 'Sincere', 'Smart', 'Sociable', 'Soulful', 'Spectacular', 'Splendid', 'Stellar', 'Straightforward', 'Strong', 'Stupendous', 'Successful', 'Super', 'Sustained', 'Sympathetic',
             'Thankful', 'Thoughtful', 'Thrilled', 'Thriving', 'Tidy', 'Tough', 'Tranquil', 'Triumphant', 'Trusting',
-            'Ultimate', 'Unassuming', 'Unbelievable', 'Understanding', 'Unf”ckwitable', 'Unique', 'Unlimited', 'Unreal', 'Uplifted',
+            'Ultimate', 'Unassuming', 'Unbelievable', 'Understanding', 'Unique', 'Unlimited', 'Unreal', 'Uplifted',
             'Valuable', 'Versatile', 'Vibrant', 'Victorious', 'Vivacious',
             'Warm', 'Warmhearted', 'Wealthy', 'Welcomed', 'Whole', 'Wholeheartedly', 'Willing', 'Wise', 'Witty', 'Wonderful', 'Wondrous', 'Worthy',
             'Youthful', 'Yummy',
-            'Zappy', 'Zestful', 'Zing',
+            'Zappy', 'Zestful',
         ];
     }
 }
