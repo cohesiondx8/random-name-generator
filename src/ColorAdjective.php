@@ -23,7 +23,7 @@ class ColorAdjective extends AbstractList
             'Oatmeal', 'Obsidian', 'Ocher', 'Ochre', 'Olive', 'Opal', 'Opaque', 'Orange', 'Orchid', 'Orchil', 'Oyster',
             'Paprika', 'Pastel', 'Peach', 'Pearl', 'Periwinkle', 'Peroxide', 'Persimmon', 'Pewter', 'Pink', 'Platinum', 'Plum', 'Poppy', 'Primary', 'Primrose', 'Puce', 'Pumpkin', 'Purple', 'Purplish',
             'Rainbow', 'Raspberry', 'Raven', 'Red', 'Reddish', 'Rose', 'Rosiness', 'Rouge', 'Ruby', 'Ruddiness', 'Ruddy', 'Russet', 'Rust',
-            'Sable', 'Saffron', 'Sage', 'Salmon', 'Sand', 'Sanguine', 'Sapphire', 'Scarlet', 'Seafoam', 'Seashell', 'Secondary', 'Sepia', 'Shade', 'Shamrock', 'Sienna', 'Silver', 'Slate', 'Spectrum', 'Spruce', 'Steel ', 'Stone', 'Straw', 'Strawberry',
+            'Sable', 'Saffron', 'Sage', 'Salmon', 'Sand', 'Sanguine', 'Sapphire', 'Scarlet', 'Seafoam', 'Seashell', 'Secondary', 'Sepia', 'Shade', 'Shamrock', 'Sienna', 'Silver', 'Slate', 'Spectrum', 'Spruce', 'Steel', 'Stone', 'Straw', 'Strawberry',
             'Tan', 'Tangerine', 'Taupe', 'Tawniness', 'Teal', 'Terracotta', 'Thistle', 'Tint', 'Tomato', 'Topaz', 'Turquoise',
             'Ultramarine', 'Umber',
             'Vanilla', 'Verdant', 'Verdigris', 'Vermeil', 'Vermilion', 'Violet', 'Viridian', 'Viridity',
