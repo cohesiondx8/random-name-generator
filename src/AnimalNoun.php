@@ -28,7 +28,7 @@ class AnimalNoun extends AbstractList
             'Salamander', 'Salmon', 'Sandpiper', 'Sardine', 'Scarab', 'Seahorse', 'Seal', 'Serval', 'Shark', 'Sheep', 'Shrew', 'Shrike', 'Skimmer', 'Skipper', 'Skunk', 'Skylark', 'Sloth', 'Snail', 'Snake', 'Spider', 'Squirrel', 'Stag', 'Starling', 'Stoat', 'Stork', 'Swan', 'Swiftlet',
             'Tamarin', 'Tapir', 'Tarantula', 'Tarsier', 'Teira', 'Termite', 'Tern', 'Thrush', 'Tiger', 'Toad', 'Tortoise', 'Toucan', 'Trout', 'Tuatara', 'Turkey', 'Turtle',
             'Unicorn',
-            'Vendace', 'Vicuña', 'Vole', 'Vulture',
+            'Vendace', 'Vicuna', 'Vole', 'Vulture',
             'Wallaby', 'Walrus', 'Warbler', 'Wasp', 'Weasel', 'Weevil', 'Whale', 'Wildebeest', 'Willet', 'Wolf', 'Wolverine', 'Wombat', 'Worm', 'Wren', 'Wryneck',
             'Xenomorph',
             'Yacare', 'Yak',
